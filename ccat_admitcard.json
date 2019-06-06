@@ -1,0 +1,43 @@
+{
+  "id": "866b55cb-f22a-4582-9b2c-45f440673d49",
+  "name": "ccat_admitcard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a9987d13-45e3-48e0-bba6-8ab7c7d4ad4c",
+          "required": false,
+          "dataType": "@test",
+          "name": "test",
+          "value": "$test",
+          "isList": false
+        },
+        {
+          "id": "64a1fd16-92a6-4b06-ad47-4d42f32d62da",
+          "dataType": "@ccat_exam_req",
+          "name": "ccat_exam_req",
+          "value": "$ccat_exam_req",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Candidates can download and print their admit cards from C-DAC’s website(www.cdac.in) after logging in."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

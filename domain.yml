@@ -1,0 +1,109 @@
+%YAML 1.1
+---
+actions:
+- utter_affirm
+- utter_ask_test
+- utter_bye
+- utter_ccat_application
+- utter_ccat_application_submit
+- utter_ccat_eligibility
+- utter_ccat_exam_fee
+- utter_ccat_pattern
+- utter_ccat_what
+- utter_ccat_when
+- utter_default
+- utter_greet
+- utter_negate
+
+entities:
+- ccat_test
+- ccat_what
+- exam_ccat_attr
+- field
+- institute
+- location
+- mode_of_qualification
+- qualification
+intents:
+- ccat_what:
+    triggers: utter_ccat_what
+- ccat_when:
+    triggers: utter_ccat_when
+- out_of_scope:
+    triggers: action_default_fallback
+- ccat_application:
+    triggers: utter_ccat_application
+- ccat_eligibility:
+    triggers: utter_ccat_eligibility
+- ccat_exam_fee:
+    triggers: utter_ccat_exam_fee
+- ccat_application_submit:
+    triggers: utter_ccat_application_submit
+- bye:
+    triggers: utter_bye
+- ccat_pattern:
+    triggers: utter_ccat_pattern
+- greet:
+    triggers: utter_greet
+- negative:
+    triggers: utter_negate
+- affirmative:
+    triggers: utter_affirm
+
+slots:
+  ccat_test:
+    type: text
+templates:
+  utter_affirm:
+  - text: Alright!
+  - text: Okay!
+  utter_ask_test:
+  - text: Which exam are you talking about?
+  utter_bye:
+  - text: Talk to you later.
+  - text: Bye bye :(
+  utter_ccat_application:
+  - text: The online application forms for C-CAT are usually uploaded in May for the
+      June C-CAT and in November for the December C-CAT. The link for the application
+      form is www.cdac.in, then click on Education & Training
+  utter_ccat_application_submit:
+  - text: The C-CAT application form is available online and can be submitted online
+      by paying fees through online mode by using credit/debit cards
+  utter_ccat_eligibility:
+  - text: Candidates who have successfully completed their Engineering Degree or MCA
+      or a Post Graduate in Computer Science/IT are eligible for appearing for C-CAT.
+      For detailed information refer Section 2 of C-DAC’s PG Diploma Admission Booklet.
+      All candidates (including distance education mode) meeting the eligibility criteria
+      mentioned in C-DAC's Admission Booklet can apply.
+  utter_ccat_exam_fee:
+  - text: For candidates who opt (in the online application) to use their own laptops
+      for C-CAT, the examination fee for Category I (Section A) is Rs. 1000/-, for
+      Category II (Section A & B) is Rs. 1200/- and for Category III (Sections A,
+      B & C) is Rs. 1400/-. A computer usage charge of Rs. 200/- will be added to
+      the above-mentioned fee, if the candidate opts in the online application to
+      use the computer of the C-CAT centre.
+  utter_ccat_pattern:
+  - text: C-CAT has three sections (Section A, Section B, Section C) of one hour duration
+      each. Depending on the category of courses selected by the candidate, he/she
+      will have to either appear for just one test paper (Section A) or two test papers
+      (Section A and Section B) or all the three test papers (Section A, Section B
+      and Section C). This test is conducted in computerized mode and carries negative
+      marking for wrong answers.
+  utter_ccat_what:
+  - text: C-CAT is CDAC’s Common Admission Test (C-CAT). It is an entry level examination
+      for various PG Diploma courses offered by Centre for Development of Advanced
+      Computing (C-DAC) conducted at all India level
+  utter_ccat_when:
+  - text: C-CAT is conducted twice a year in the months of June and December
+  utter_default:
+  - text: Sorry, I didn't get that 🤷🏻‍. Could you please rephrase?
+  - text: I didn't understand, could you rephrase that?
+  - text: I'm sorry, but I didn't understand you. Could you please rephrase what you
+      just said?
+  - text: I'm afraid I didn't get what you just said. Could you rephrase that?
+  - text: I didn't quite get that, could you rephrase your message?
+  - text: Could you rephrase your message? I didn't get it, I'm sorry.
+  utter_greet:
+  - text: Hello! I am your ccat bot ! How can I help?
+  utter_negate:
+  - text: your statement is in not in a positive sense

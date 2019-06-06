@@ -1,0 +1,545 @@
+## intent:affirmative
+- yes to that i want that
+- affirmative correct please
+- you're goddamn correct
+- yes that is ok
+- right
+- you got that right
+- i want that
+- right yep allright yes sir
+- yes sir correcto correcto affirmative
+- right ok ok correcto
+- affirmative yep si right
+- yep correcto affirmative yes sir
+- yep right correct ok
+- yes to that si correcto ok
+- allright yes sir yes correct
+- right affirmative ok
+- ok correcto yep yes to that
+- yes right yes to that allright
+- correct right ok yes to that
+- yep ok yes yes sir
+- yes sir correct correcto correct
+- yes to that correct correcto correcto
+- affirmative si right right
+- ok correct correcto correct
+- correct yes to that correcto right
+- right yep yes
+- right si right yep
+- allright yes to that
+- correcto yes to that right correct
+- yes sir affirmative yes sir yes sir
+- yes correcto affirmative right
+- right yes allright allright
+- right affirmative yep right
+- si right yes ok
+- yes correcto allright
+- correct yep ok ok
+- right yes to that right affirmative
+- si correct correct yes to that
+- yes correct right affirmative
+- right yes to that yes right
+- correcto yes sir allright
+- right yes sir yep allright
+- correcto correct right
+- yes to that yes to that right
+- ok yes to that yes affirmative
+- affirmative correcto yep right
+- yes right yes sir yep
+- yep correct yes sir allright
+- yes to that yes correcto yep
+- si correct correct affirmative
+- allright correct allright
+- yes sir affirmative yes sir right
+- right affirmative yes
+- yep allright correct
+- yes sir correcto correcto right
+- yep yep correcto
+- ok correct right right
+- yes to that yep yep
+- yes to that yes sir correct ok
+- right yes to that correct correcto
+- yes to that yep si
+- allright yes right yes sir
+- right right yes ok
+- right allright right
+- yes sir right right allright
+- yes yes right
+- yep ok right right
+- allright yes to that yes right
+- si yes yes sir allright
+- yes sir si yep yes
+- affirmative right correct yes sir
+- yes to that affirmative yes
+- right ok ok affirmative
+- yes sir right correct ok
+- right correct allright
+- yes sir right si affirmative
+- yes sir right correcto right
+- si si yep yes
+- right affirmative allright allright
+- yes sir ok allright affirmative
+- affirmative ok
+- correct allright yep right
+- correct ok yes yes sir
+- yes to that yep allright right
+- yes right correct ok
+- yep yes right right
+- correct right affirmative
+- yes sir right si
+- correct affirmative ok
+- yes allright yes affirmative
+- yes ok ok correcto
+- affirmative yes sir yep correcto
+- right ok
+- correcto correct affirmative yep
+- yep yes to that correct
+- yes to that si allright affirmative
+- correcto ok right ok
+- ok yes sir ok
+- yes sir affirmative correct correcto
+- correcto right yes to that right
+
+## intent:bye
+- heading out adios
+- talk to you later ttyl ttyl chau talk to you later
+- talk to you soon adieu chao talk to you later
+- ttyl adieu ttyl
+- got to go ttyl ttyl going out
+- im leaving now gtg gtg adieu have to go
+- chao gtg goodbye have to go
+- going out farewell chao adieu going out
+- talk to you later gtg talk to you soon
+- talk to you soon goodbye chau goodbye talk to you soon
+- leaving chau chao adios leaving
+- im leaving now adieu chao adios heading out
+- adios chau gtg talk to you later
+- im leaving now goodbye chao ttyl im leaving now
+- got to go gtg goodbye goodbye got to go
+- leaving bye farewell leaving
+- have to go farewell adios bye
+- talk to you soon adieu farewell goodbye
+- im leaving now ttyl chau chau
+- im leaving now adieu adios chau leaving
+- im leaving now adios farewell adios
+- talk to you soon farewell chao farewell heading out
+- heading out chau got to go
+- talk to you soon ttyl chau ttyl leaving
+- talk to you later gtg farewell chao heading out
+- im leaving now adieu adios chau have to go
+- bye farewell heading out
+- got to go farewell bye going out
+- going out gtg bye bye going out
+- leaving chau ttyl gtg got to go
+- going out adios chao chau talk to you soon
+- got to go gtg chao adios im leaving now
+- adieu adieu im leaving now
+- got to go chau chao ttyl leaving
+- im leaving now chao goodbye adios got to go
+- talk to you soon ttyl adios gtg talk to you soon
+- im leaving now adieu farewell goodbye heading out
+- goodbye goodbye adieu talk to you soon
+- im leaving now adios gtg have to go
+- got to go goodbye bye adieu
+- talk to you soon adieu adios have to go
+- going out gtg goodbye ttyl going out
+- leaving goodbye goodbye chao leaving
+- heading out ttyl farewell farewell
+- leaving adios bye bye talk to you soon
+- got to go ttyl farewell gtg talk to you later
+- im leaving now goodbye goodbye bye have to go
+- heading out chao gtg have to go
+- bye farewell adios talk to you soon
+- im leaving now goodbye adieu ttyl got to go
+- im leaving now adieu adios adieu got to go
+- talk to you soon ttyl ttyl ttyl talk to you later
+- going out goodbye farewell ttyl im leaving now
+- im leaving now bye farewell chao talk to you later
+- talk to you soon ttyl goodbye goodbye got to go
+- talk to you later ttyl chao chau talk to you later
+- got to go farewell farewell ttyl talk to you later
+- going out chau farewell goodbye talk to you soon
+- have to go gtg adieu adieu
+- heading out adieu bye goodbye
+- leaving ttyl adieu chau leaving
+- talk to you later adios chau ttyl have to go
+- heading out ttyl chau farewell talk to you soon
+- leaving ttyl ttyl farewell im leaving now
+- going out ttyl farewell adieu leaving
+- im leaving now ttyl gtg farewell talk to you soon
+- farewell bye ttyl talk to you later
+- leaving chau goodbye ttyl leaving
+- leaving bye bye chao talk to you later
+- farewell chau adios talk to you soon
+- got to go adieu chao adios going out
+- heading out chau chao leaving
+- talk to you soon chao ttyl adieu
+- leaving farewell bye bye
+- got to go bye goodbye ttyl talk to you later
+- have to go bye chau bye got to go
+- going out gtg ttyl adios talk to you later
+- talk to you later farewell chao adios leaving
+- talk to you soon adios gtg going out
+- got to go goodbye goodbye goodbye talk to you later
+- going out adieu bye goodbye got to go
+- heading out chau adios have to go
+- got to go goodbye gtg bye talk to you later
+- got to go ttyl adieu adieu im leaving now
+- got to go chao gtg adios leaving
+- chao ttyl ttyl
+- talk to you soon chao ttyl chao talk to you soon
+- have to go chau gtg
+- ttyl adios ttyl im leaving now
+- im leaving now gtg chau bye going out
+- talk to you soon chau farewell adios leaving
+- talk to you later ttyl adios gtg im leaving now
+- heading out ttyl goodbye chao have to go
+- talk to you soon chau chau adios leaving
+- talk to you soon chau ttyl chao talk to you soon
+- im leaving now bye chao ttyl leaving
+- im leaving now gtg ttyl chao got to go
+- leaving adios adieu leaving
+- going out goodbye adios ttyl heading out
+- got to go bye adios chau going out
+
+## intent:ccat_application
+- [ccat](ccat_test) applications are available from?
+- From when can i find the  application forms for [ccat](ccat_test)?
+- From which date are the applications for [ccat](ccat_test) going to be open ?
+- When are the application forms of [ccat](ccat_test) available?
+- We can start filling the applications forms for [CCAT](ccat_test) from?
+- Applications for [ccat](ccat_test) will be made available to be filled from ?
+- [ccat](ccat_test) application forms will be available from ?
+- did the application process for [ccat](ccat_test) start?
+- application process for [ccat](ccat_test) begins from?
+
+## intent:ccat_application_submit
+- tell me how to submit the application for [ccat](ccat_test)
+- [c-cat](ccat_test)  application form submission
+- how to submit the [ccat](ccat_test) application form?
+- can we submit the [ccat](ccat_test) application form online?
+- where to submit the [C-CAT](ccat_test) application form?
+- How and where to submit the [CCAT](ccat_test) application form?
+- I want to submit the [ccat](ccat_test) application. How to do it ?
+- where should we submit the application form for [ccat](ccat_test)?
+- Is it possible to submit the application form for [ccat](ccat_test) online?
+
+## intent:ccat_eligibility
+- I am [Post graduate](qualification:PG) in the field of  [IT](field) . Can i get admitted in [CDAC](institute)s PG Diploma course?
+- I am [CS](field) [graduate](qualification) . Am i eligible for PG diploma IN [CDAC](institute)
+- I have done my [MCA](qualification)  through [long distance learning](mode_of_qualification:distance education mode) am i still eligible for [ccat](ccat_test)?
+- I have done an [MCA ](qualification)in [IT](field). Am i eligible to write [ccat](ccat_test)?
+- I am a  [Btech graduate](qualification) in [IT](field). Am i eligible to write [ccat](ccat_test)?
+- I hold a [degree](qualification) in [CSE](field). Am i eligible?
+- What is the eligibility criteria to write [ccat](ccat_test)?
+- am i eligible to attempt [ccat](ccat_test)
+- I want to write the test . Am i eligible to write [ccat](ccat_test)
+- what is the minimum requirements to write [ccat](ccat_test)
+- who are eligible to write  [ccat](ccat_test)
+- I have done my [Masters in Computer Applications](qualification) in [CS](field) via [distance education mode](mode_of_qualification). Am i eligible for admission into [CDAC's](institute) PG Diploma course?
+- eligibility for [ccat](ccat_test)
+- eligibility criteria for [ccat](ccat_test) is?
+
+## intent:ccat_exam_fee
+- Is [CCAT](ccat_test) free
+- [ccat](ccat_test) fee
+- Can I attempt [ccat](ccat_test) on my laptop
+- will i have to pay money if i write [ccat](ccat_test) on my own laptop
+- will i be charged even if i bring my own laptop to [CCAT](ccat_test)
+- [ccat](ccat_test) exam fees details
+- What is [ccat](ccat_test) fees
+
+## intent:ccat_pattern
+- what is the [ccat](ccat_test) examination pattern
+- differents parts in the [ccat](ccat_test) exam paper?
+- is there negative marking in  [CCAT](ccat_test)
+- [ccat](ccat_test) exam pattern
+- What are the different sections of the [C-CAT](ccat_test) examination?
+- [CCAT](ccat_test) marking scheme
+- question paper pattern of [ccat](ccat_test)
+- expected questions and marking scheme of [ccat](ccat_test)
+- tell me the examination pattern of [ccat](ccat_test)
+- [ccat](ccat_test) examination pattern
+
+## intent:ccat_what
+- whats the full form of [ccat](ccat_test)?
+- expand [ccat](ccat_test)
+- [ccat](ccat_test) stands for?
+- details about [ccat](ccat_test)
+- [ccat](ccat_test) fullform
+- [ccat](ccat_test)?
+- tell me information regarding [ccat](ccat_test)
+- details about [c-cat](ccat_test)
+- what is [ccat](ccat_test)?
+- [ccat](ccat_test) is?
+- what is [ccat](ccat_test)?
+
+## intent:ccat_when
+- what is [ccat](ccat_test) schedule?
+- when is [ccat](ccat_test) held
+- On which day is [ccat](ccat_test)?
+- when is  [ccat](ccat_test) held
+- [ccat](ccat_test) date
+- tell me when [ccat](ccat_test) is going to be held
+- [ccat](ccat_test) exam dates
+- [ccat](ccat_test) schedule
+- [ccat](ccat_test) dates
+- what is the [ccat](ccat_test) exam schedule?
+- when is [ccat](ccat_test) held?
+- [ccat](ccat_test) schedule?
+
+## intent:greet
+- hola hi hey
+- greetings hi hola
+- hola good night hi
+- how are you doing are you around?
+- whats up howdy hola
+- hola sup hey
+- whats up are you there
+- whats up hola hey
+- hola sup hi
+- hola hola hey
+- hey good afternoon hello
+- how are you doing hey hey
+- good afternoon whatsup
+- hi good morning hi
+- good day howdy howdy
+- morning hi hola
+- hi good night
+- how is it going morning
+- hey hello
+- morning hi hey
+- hey good night hola
+- howdy are you around? hi
+- good afternoon howdy hi
+- morning greetings
+- hi hey hey
+- hi whatsup hey
+- whats up good morning
+- howdy how are you hello
+- good morning howdy hola
+- hi how are you hello
+- morning hola hey
+- are you there good day
+- hello hey hi
+- how is it going hello hello
+- hey good day hi
+- hola whatsup hey
+- are you around? hi hey
+- how are things going are you there
+- howdy how is it going hi
+- good day hey howdy
+- hello hey hello
+- whatsup hi hi
+- hi greetings hey
+- how is it going good morning
+- good afternoon hey
+- hi whats up hello
+- good day good morning
+- howdy sup hey
+- hey hi
+- are you around hey
+- hola are you around hola
+- whatsup hello hello
+- how are you how is it going
+- hey good morning hey
+- are you around? hey
+- hola howdy hola
+- hola are you around? hola
+- whats up howdy hello
+- good day how are you doing
+- good morning hey howdy
+- hello morning howdy
+- good afternoon howdy hello
+- morning sup
+- howdy hello hey
+- good morning howdy hey
+- hola are you around howdy
+- sup are you around
+- good afternoon hey hola
+- hola good night hey
+- howdy morning hi
+- hey howdy
+- whats up hi howdy
+- good afternoon greetings
+- hola how are things going howdy
+- how are you hola hello
+- hey greetings howdy
+- how are you doing are you around
+- hey hola hey
+- hello whats up hello
+- whatsup hey hola
+- hi how are you doing hello
+- good afternoon hey hello
+- whatsup how are you doing
+- hola how are things going hola
+- are you around hi hi
+- hola howdy hello
+- are you there hi
+- whatsup good afternoon
+- hey are you around hi
+- how is it going hello hi
+- hi how are things going hi
+- whats up good night
+- morning hello hi
+- howdy morning hey
+- hey hey hello
+- are you around? hola hey
+- hello good day hola
+- are you there morning
+- hey greetings hi
+- are you around? hey hola
+- hey
+
+## intent:negative
+- negative not correct
+- no dont mean that no sir
+- not correct wrong wrong
+- negative dont agree on that
+- no im not ok with that wrong
+- no that is bad no
+- no sir not correct not correct
+- incorrect definitely no negative
+- nope dont mean that incorrect
+- ok its not fine not correct
+- no sir nope incorrect
+- wrong not correct negative
+- no sir its bad not correct
+- incorrect dont desire that incorrect
+- nope incorrect nope
+- no definitely no negative
+- incorrect im not ok with that
+- no that is wrong negative
+- wrong not correct nope
+- nope no sir negative
+- negative its bad no sir
+- wrong
+- incorrect dont want that not correct
+- wrong dont mean that nope
+- incorrect that is bad no sir
+- incorrect not correct incorrect
+- no sir bad
+- nope wrong nope
+- not correct dont agree on that wrong
+- nope incorrect wrong
+- wrong not good for me
+- no sir not correct
+- nope didnt meant that no
+- negative no nope
+- incorrect im not ok with that nope
+- negative bad no sir
+- no dont want that wrong
+- nope nope please
+- negative wrong negative
+- incorrect that is bad incorrect
+- not correct im not ok with that incorrect
+- incorrect im not ok with that wrong
+- incorrect that is wrong no sir
+- nope negative nope
+- incorrect definitely no
+- wrong not good for me wrong
+- no not good for me nope
+- wrong bad not correct
+- wrong its not ok
+- its not ok no
+- wrong didnt meant that nope
+- wrong nope no
+- no sir its not correct not correct
+- not correct ok its not fine no
+- wrong ok its not fine incorrect
+- incorrect not correct not correct
+- wrong no sir
+- not correct its not ok
+- nope dont want that negative
+- negative not correct nope
+- wrong that is bad negative
+- not correct bad no
+- incorrect im not good with that nope
+- nope not correct incorrect
+- didnt meant that no
+- wrong dont want that no
+- nope no not correct
+- wrong im not ok with that
+- nope definitely no nope
+- no not good for me wrong
+- no sir no
+- not correct wrong negative
+- not correct its not ok negative
+- no sir not good for me
+- wrong definitely no no sir
+- no sir wrong no
+- nope nope not correct
+- not correct not what i want not correct
+- no sir didnt meant that negative
+- no didnt meant that
+- incorrect incorrect nope
+- negative no sir incorrect
+- wrong im not ok with that negative
+- definitely no nope
+- not correct incorrect
+- negative nope
+- negative dont mean that negative
+- not correct no
+- wrong wrong no
+- that is bad nope
+- no sir incorrect not correct
+- nope incorrect no sir
+- no that is bad
+- not correct dont want that no
+- no incorrect no
+- nope not correct nope
+- wrong no sir no sir
+- nope wrong not correct
+- wrong im not ok with that not correct
+- no sir its not ok wrong
+
+## synonym:CDAC
+- C-DAC
+- C-dac
+- cdac
+- c-dac
+
+## synonym:CS
+- Computer Science
+- Computer Engineering
+- computer science
+
+## synonym:Computer Science
+- CS
+
+## synonym:Graduate
+- B.tech
+- B.Sc
+- BTECH
+- btech
+
+## synonym:IT
+- Information Technology
+- I.T
+- information technology
+- info technology
+
+## synonym:PG
+- Post graduate
+- Post Graduate
+- Post graduation
+- P.G
+
+## synonym:ccat
+- c-cat
+- CCAT
+- C-CAT
+- C-Cat
+- CCAt
+- Ccat
+
+## synonym:ccat exam fee
+- ccat fee
+
+## synonym:distance education mode
+- long distance learning
+
+## synonym:long distance learning
+- distance education mode
+- distance learning mode
+- distant learning mode

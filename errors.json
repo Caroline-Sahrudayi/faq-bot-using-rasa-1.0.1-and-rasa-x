@@ -1,0 +1,26 @@
+[
+  {
+    "text": "okay",
+    "intent": "affirmative",
+    "intent_prediction": {
+      "name": "bye",
+      "confidence": 0.6471580862998962
+    }
+  },
+  {
+    "text": "what is life?",
+    "intent": "out_of_scope",
+    "intent_prediction": {
+      "name": "ccat_what",
+      "confidence": 0.8629984259605408
+    }
+  },
+  {
+    "text": "when is the last date to fill the ccat application form?",
+    "intent": "ccat_application",
+    "intent_prediction": {
+      "name": "ccat_when",
+      "confidence": 0.6767703890800476
+    }
+  }
+]

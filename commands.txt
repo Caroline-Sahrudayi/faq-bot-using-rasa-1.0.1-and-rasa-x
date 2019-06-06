@@ -1,0 +1,35 @@
+ ###fit the nlu model
+ rasa train nlu
+
+
+ ###converting data from one format to the others
+rasa data convert nlu --data ./data/nlu.md --out ./newdata -f json 
+
+
+### splitting data into training and testing
+rasa data split nlu
+
+## training the nlu model only on splitted training data to check the model's predictions
+rasa train nlu -v --debug -u ./train_test_split/training_set.json --fixed-model-name ./testingmodels/nlutestingmodel
+
+### testing the nlu model
+rasa test nlu -u ./train_test_split/test_data.json --model ./models/testingmodels/nlutestingmodel.tar.gz
+
+##training the rasa model
+rasa train
+
+##rasa shell
+
+
+## rasa interactive 
+
+## rasa run
+
+## rasa test
+
+## rasa x
+
+
+rasa run actions --actions actions
+
+rasa run --enable-api

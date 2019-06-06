@@ -1,0 +1,3044 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "yes to that i want that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative correct please",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "you're goddamn correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "you got that right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "i want that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yep allright yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir correcto correcto affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right ok ok correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative yep si right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep correcto affirmative yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep right correct ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that si correcto ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "allright yes sir yes correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right affirmative ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok correcto yep yes to that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes right yes to that allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct right ok yes to that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep ok yes yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir correct correcto correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that correct correcto correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative si right right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok correct correcto correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct yes to that correcto right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yep yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right si right yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "allright yes to that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correcto yes to that right correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir affirmative yes sir yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes correcto affirmative right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yes allright allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right affirmative yep right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "si right yes ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes correcto allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct yep ok ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yes to that right affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "si correct correct yes to that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes correct right affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yes to that yes right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correcto yes sir allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yes sir yep allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correcto correct right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that yes to that right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok yes to that yes affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative correcto yep right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes right yes sir yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep correct yes sir allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that yes correcto yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "si correct correct affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "allright correct allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir affirmative yes sir right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right affirmative yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep allright correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir correcto correcto right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep yep correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok correct right right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that yep yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that yes sir correct ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yes to that correct correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that yep si",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "allright yes right yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right right yes ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right allright right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir right right allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes yes right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep ok right right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "allright yes to that yes right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "si yes yes sir allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir si yep yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative right correct yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that affirmative yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right ok ok affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir right correct ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right correct allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir right si affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir right correcto right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "si si yep yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right affirmative allright allright",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir ok allright affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct allright yep right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct ok yes yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that yep allright right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes right correct ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep yes right right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct right affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir right si",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct affirmative ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes allright yes affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes ok ok correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative yes sir yep correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correcto correct affirmative yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep yes to that correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes to that si allright affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correcto ok right ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok yes sir ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir affirmative correct correcto",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correcto right yes to that right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "heading out adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later ttyl ttyl chau talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon adieu chao talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "ttyl adieu ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go ttyl ttyl going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now gtg gtg adieu have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "chao gtg goodbye have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out farewell chao adieu going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later gtg talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon goodbye chau goodbye talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving chau chao adios leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adieu chao adios heading out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "adios chau gtg talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now goodbye chao ttyl im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go gtg goodbye goodbye got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving bye farewell leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have to go farewell adios bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon adieu farewell goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now ttyl chau chau",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adieu adios chau leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adios farewell adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon farewell chao farewell heading out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out chau got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon ttyl chau ttyl leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later gtg farewell chao heading out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adieu adios chau have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "bye farewell heading out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go farewell bye going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out gtg bye bye going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving chau ttyl gtg got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out adios chao chau talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go gtg chao adios im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "adieu adieu im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go chau chao ttyl leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now chao goodbye adios got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon ttyl adios gtg talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adieu farewell goodbye heading out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "goodbye goodbye adieu talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adios gtg have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go goodbye bye adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon adieu adios have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out gtg goodbye ttyl going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving goodbye goodbye chao leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out ttyl farewell farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving adios bye bye talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go ttyl farewell gtg talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now goodbye goodbye bye have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out chao gtg have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "bye farewell adios talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now goodbye adieu ttyl got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adieu adios adieu got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon ttyl ttyl ttyl talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out goodbye farewell ttyl im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now bye farewell chao talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon ttyl goodbye goodbye got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later ttyl chao chau talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go farewell farewell ttyl talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out chau farewell goodbye talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have to go gtg adieu adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out adieu bye goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving ttyl adieu chau leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later adios chau ttyl have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out ttyl chau farewell talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving ttyl ttyl farewell im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out ttyl farewell adieu leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now ttyl gtg farewell talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "farewell bye ttyl talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving chau goodbye ttyl leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving bye bye chao talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "farewell chau adios talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go adieu chao adios going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out chau chao leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon chao ttyl adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving farewell bye bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go bye goodbye ttyl talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have to go bye chau bye got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out gtg ttyl adios talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later farewell chao adios leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon adios gtg going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go goodbye goodbye goodbye talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out adieu bye goodbye got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out chau adios have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go goodbye gtg bye talk to you later",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go ttyl adieu adieu im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go chao gtg adios leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "chao ttyl ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon chao ttyl chao talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have to go chau gtg",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "ttyl adios ttyl im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now gtg chau bye going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon chau farewell adios leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later ttyl adios gtg im leaving now",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out ttyl goodbye chao have to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon chau chau adios leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon chau ttyl chao talk to you soon",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now bye chao ttyl leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now gtg ttyl chao got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving adios adieu leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out goodbye adios ttyl heading out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go bye adios chau going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "ccat applications are available from?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "From when can i find the  application forms for ccat?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 48,
+            "end": 52,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "From which date are the applications for ccat going to be open ?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 41,
+            "end": 45,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "When are the application forms of ccat available?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 34,
+            "end": 38,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "We can start filling the applications forms for CCAT from?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 48,
+            "end": 52,
+            "value": "CCAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "Applications for ccat will be made available to be filled from ?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat application forms will be available from ?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "did the application process for ccat start?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 32,
+            "end": 36,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "application process for ccat begins from?",
+        "intent": "ccat_application",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "tell me how to submit the application for ccat",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 42,
+            "end": 46,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "c-cat  application form submission",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "c-cat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "how to submit the ccat application form?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "can we submit the ccat application form online?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "where to submit the C-CAT application form?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 20,
+            "end": 25,
+            "value": "C-CAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "How and where to submit the CCAT application form?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 28,
+            "end": 32,
+            "value": "CCAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "I want to submit the ccat application. How to do it ?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 21,
+            "end": 25,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "where should we submit the application form for ccat?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 48,
+            "end": 52,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "Is it possible to submit the application form for ccat online?",
+        "intent": "ccat_application_submit",
+        "entities": [
+          {
+            "start": 50,
+            "end": 54,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "I am Post graduate in the field of  IT . Can i get admitted in CDACs PG Diploma course?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 5,
+            "end": 18,
+            "value": "PG",
+            "entity": "qualification"
+          },
+          {
+            "start": 36,
+            "end": 38,
+            "value": "IT",
+            "entity": "field"
+          },
+          {
+            "start": 63,
+            "end": 67,
+            "value": "CDAC",
+            "entity": "institute"
+          }
+        ]
+      },
+      {
+        "text": "I am CS graduate . Am i eligible for PG diploma IN CDAC",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 51,
+            "end": 55,
+            "value": "CDAC",
+            "entity": "institute"
+          },
+          {
+            "start": 5,
+            "end": 7,
+            "value": "CS",
+            "entity": "field"
+          },
+          {
+            "start": 8,
+            "end": 16,
+            "value": "graduate",
+            "entity": "qualification"
+          }
+        ]
+      },
+      {
+        "text": "I have done my MCA  through long distance learning am i still eligible for ccat?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 28,
+            "end": 50,
+            "value": "distance education mode",
+            "entity": "mode_of_qualification"
+          },
+          {
+            "start": 75,
+            "end": 79,
+            "value": "ccat",
+            "entity": "ccat_test"
+          },
+          {
+            "start": 15,
+            "end": 18,
+            "value": "MCA",
+            "entity": "qualification"
+          }
+        ]
+      },
+      {
+        "text": "I have done an MCA in IT. Am i eligible to write ccat?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "MCA ",
+            "entity": "qualification"
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "value": "ccat",
+            "entity": "ccat_test"
+          },
+          {
+            "start": 22,
+            "end": 24,
+            "value": "IT",
+            "entity": "field"
+          }
+        ]
+      },
+      {
+        "text": "I am a  Btech graduate in IT. Am i eligible to write ccat?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 8,
+            "end": 22,
+            "value": "Btech graduate",
+            "entity": "qualification"
+          },
+          {
+            "start": 53,
+            "end": 57,
+            "value": "ccat",
+            "entity": "ccat_test"
+          },
+          {
+            "start": 26,
+            "end": 28,
+            "value": "IT",
+            "entity": "field"
+          }
+        ]
+      },
+      {
+        "text": "I hold a degree in CSE. Am i eligible?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 19,
+            "end": 22,
+            "value": "CSE",
+            "entity": "field"
+          },
+          {
+            "start": 9,
+            "end": 15,
+            "value": "degree",
+            "entity": "qualification"
+          }
+        ]
+      },
+      {
+        "text": "What is the eligibility criteria to write ccat?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 42,
+            "end": 46,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "am i eligible to attempt ccat",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "I want to write the test . Am i eligible to write ccat",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 50,
+            "end": 54,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "what is the minimum requirements to write ccat",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 42,
+            "end": 46,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "who are eligible to write  ccat",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 27,
+            "end": 31,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "I have done my Masters in Computer Applications in CS via distance education mode. Am i eligible for admission into CDAC's PG Diploma course?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 15,
+            "end": 47,
+            "value": "Masters in Computer Applications",
+            "entity": "qualification"
+          },
+          {
+            "start": 51,
+            "end": 53,
+            "value": "CS",
+            "entity": "field"
+          },
+          {
+            "start": 58,
+            "end": 81,
+            "value": "distance education mode",
+            "entity": "mode_of_qualification"
+          },
+          {
+            "start": 116,
+            "end": 122,
+            "value": "CDAC's",
+            "entity": "institute"
+          }
+        ]
+      },
+      {
+        "text": "eligibility for ccat",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "eligibility criteria for ccat is?",
+        "intent": "ccat_eligibility",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "Is CCAT free",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 3,
+            "end": 7,
+            "value": "CCAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat fee",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "Can I attempt ccat on my laptop",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "will i have to pay money if i write ccat on my own laptop",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 36,
+            "end": 40,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "will i be charged even if i bring my own laptop to CCAT",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 51,
+            "end": 55,
+            "value": "CCAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat exam fees details",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "What is ccat fees",
+        "intent": "ccat_exam_fee",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "what is the ccat examination pattern",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "differents parts in the ccat exam paper?",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 24,
+            "end": 28,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "is there negative marking in  CCAT",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "CCAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat exam pattern",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "What are the different sections of the C-CAT examination?",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 39,
+            "end": 44,
+            "value": "C-CAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "CCAT marking scheme",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "CCAT",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "question paper pattern of ccat",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 26,
+            "end": 30,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "expected questions and marking scheme of ccat",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 41,
+            "end": 45,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "tell me the examination pattern of ccat",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 35,
+            "end": 39,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat examination pattern",
+        "intent": "ccat_pattern",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "whats the full form of ccat?",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 23,
+            "end": 27,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "expand ccat",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 7,
+            "end": 11,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat stands for?",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "details about ccat",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat fullform",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat?",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "tell me information regarding ccat",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 30,
+            "end": 34,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "details about c-cat",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 14,
+            "end": 19,
+            "value": "c-cat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "what is ccat?",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat is?",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "what is ccat?",
+        "intent": "ccat_what",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "what is ccat schedule?",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "when is ccat held",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "On which day is ccat?",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 16,
+            "end": 20,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "when is  ccat held",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 9,
+            "end": 13,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat date",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "tell me when ccat is going to be held",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 13,
+            "end": 17,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat exam dates",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat schedule",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat dates",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "what is the ccat exam schedule?",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 12,
+            "end": 16,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "when is ccat held?",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 8,
+            "end": 12,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "ccat schedule?",
+        "intent": "ccat_when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "ccat",
+            "entity": "ccat_test"
+          }
+        ]
+      },
+      {
+        "text": "hola hi hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "greetings hi hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola good night hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how are you doing are you around?",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up howdy hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola sup hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up hola hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola sup hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola hola hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good afternoon hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how are you doing hey hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi good morning hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day howdy howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning hi hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi good night",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how is it going morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning hi hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good night hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy are you around? hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon howdy hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning greetings",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi hey hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi whatsup hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy how are you hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning howdy hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi how are you hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning hola hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you there good day",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello hey hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how is it going hello hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good day hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola whatsup hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around? hi hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how are things going are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy how is it going hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day hey howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello hey hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whatsup hi hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi greetings hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how is it going good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi whats up hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy sup hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola are you around hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whatsup hello hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how are you how is it going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good morning hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around? hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola howdy hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola are you around? hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up howdy hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day how are you doing",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning hey howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello morning howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon howdy hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning sup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy hello hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning howdy hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola are you around howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "sup are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon hey hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola good night hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy morning hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up hi howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon greetings",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola how are things going howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how are you hola hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey greetings howdy",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how are you doing are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey hola hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello whats up hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whatsup hey hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi how are you doing hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon hey hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whatsup how are you doing",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola how are things going hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around hi hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hola howdy hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you there hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whatsup good afternoon",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey are you around hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "how is it going hello hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi how are things going hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "whats up good night",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning hello hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "howdy morning hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey hey hello",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around? hola hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good day hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you there morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey greetings hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "are you around? hey hola",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "negative not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no dont mean that no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct wrong wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative dont agree on that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no im not ok with that wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no that is bad no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir not correct not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect definitely no negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope dont mean that incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "ok its not fine not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir nope incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong not correct negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir its bad not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect dont desire that incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope incorrect nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no definitely no negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect im not ok with that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no that is wrong negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong not correct nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope no sir negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative its bad no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect dont want that not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong dont mean that nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect that is bad no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect not correct incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir bad",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope wrong nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct dont agree on that wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope incorrect wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong not good for me",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope didnt meant that no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative no nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect im not ok with that nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative bad no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no dont want that wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope nope please",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative wrong negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect that is bad incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct im not ok with that incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect im not ok with that wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect that is wrong no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope negative nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect definitely no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong not good for me wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no not good for me nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong bad not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong its not ok",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "its not ok no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong didnt meant that nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong nope no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir its not correct not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct ok its not fine no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong ok its not fine incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect not correct not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct its not ok",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope dont want that negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative not correct nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong that is bad negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct bad no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect im not good with that nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope not correct incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "didnt meant that no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong dont want that no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope no not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong im not ok with that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope definitely no nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no not good for me wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct wrong negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct its not ok negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir not good for me",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong definitely no no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir wrong no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope nope not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct not what i want not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir didnt meant that negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect incorrect nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative no sir incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong im not ok with that negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "definitely no nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "negative dont mean that negative",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong wrong no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that is bad nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir incorrect not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope incorrect no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no that is bad",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not correct dont want that no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no incorrect no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope not correct nope",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong no sir no sir",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope wrong not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "wrong im not ok with that not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no sir its not ok wrong",
+        "intent": "negative",
+        "entities": []
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "PG",
+        "synonyms": [
+          "Post graduate",
+          "Post Graduate",
+          "Post graduation",
+          "P.G"
+        ]
+      },
+      {
+        "value": "Computer Science",
+        "synonyms": [
+          "CS"
+        ]
+      },
+      {
+        "value": "distance education mode",
+        "synonyms": [
+          "long distance learning"
+        ]
+      },
+      {
+        "value": "ccat exam fee",
+        "synonyms": [
+          "ccat fee"
+        ]
+      },
+      {
+        "value": "ccat",
+        "synonyms": [
+          "c-cat",
+          "CCAT",
+          "C-CAT",
+          "C-Cat",
+          "CCAt",
+          "Ccat"
+        ]
+      },
+      {
+        "value": "IT",
+        "synonyms": [
+          "Information Technology",
+          "I.T",
+          "information technology",
+          "info technology"
+        ]
+      },
+      {
+        "value": "CS",
+        "synonyms": [
+          "Computer Science",
+          "Computer Engineering",
+          "computer science"
+        ]
+      },
+      {
+        "value": "Graduate",
+        "synonyms": [
+          "B.tech",
+          "B.Sc",
+          "BTECH",
+          "btech"
+        ]
+      },
+      {
+        "value": "long distance learning",
+        "synonyms": [
+          "distance education mode",
+          "distance learning mode",
+          "distant learning mode"
+        ]
+      },
+      {
+        "value": "CDAC",
+        "synonyms": [
+          "C-DAC",
+          "C-dac",
+          "cdac",
+          "c-dac"
+        ]
+      }
+    ]
+  }
+}
